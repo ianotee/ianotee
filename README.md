@@ -23,7 +23,7 @@ A passionate Full Stack Software Engineer from Kenya.
 
 - 📫 How to reach me **oteeian500@gmail.com**
 
-- 📄 Know about my experiences [https://ianotee.github.io/portfolio/](https://ianotee.github.io/portfolio/)
+- 📄 Know about my experiences [https://ianotee.com](https://ianotee.com)
 
 
 
