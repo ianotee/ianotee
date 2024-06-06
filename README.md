@@ -19,7 +19,7 @@ A passionate Full Stack Software Engineer from Kenya.
 
 - 👨‍💻 All of my projects are available at [https://ianotee.github.io/portfolio/](https://ianotee.github.io/portfolio/)
 
-- 💬 Ask me about **react,Django and Django Rest Framework.**
+- 💬 Ask me about **react,Django and Django Rest Framework, Elixir, Phoenix and Phoenix LiveView .**
 
 - 📫 How to reach me **oteeian500@gmail.com**
 
