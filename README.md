@@ -13,13 +13,13 @@ A passionate Full Stack Software Engineer from Kenya.
 
 
 - 🌍  I'm based in Nairobi, (nairobi)Kenya
-- 🖥️  See my portfolio at [https://ianotee.github.io/portfolio/](https://ianotee.github.io/portfolio/)
+- 🖥️  See my portfolio at [https://ianotee.com](https://ianotee.com)
   
--  🧠  I'm currently learning **Jupyter,**
+-  🧠  I'm currently learning **Flutter,**
 
 - 👨‍💻 All of my projects are available at [https://ianotee.github.io/portfolio/](https://ianotee.github.io/portfolio/)
 
-- 💬 Ask me about **react,vue,angular.**
+- 💬 Ask me about **react.**
 
 - 📫 How to reach me **oteeian500@gmail.com**
 
